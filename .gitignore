@@ -34,6 +34,7 @@ migrate_working_dir/
 /build/
 /assets/videos/videos/
 /assets/
+assets/videos/videos/*.mp4
 
 # Symbolication related
 app.*.symbols
